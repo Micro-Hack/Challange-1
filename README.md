@@ -1,7 +1,7 @@
 # Challange-1
 Micro Hack , challange 1
 This is micor challenge 1 , the challenge is a simple , given a list of connected nodes , find the node(s) that have no direct or nondirect connection to the number 3 node .
-Example :
+## Example :
 
 7 1
 6 1
@@ -13,5 +13,7 @@ Example :
 5 8
 8 4
 
-Solution :
+![alt text](http://url/to/img.png)
+
+## Solution :
 6 , 1 , 7 
