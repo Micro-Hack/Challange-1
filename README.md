@@ -18,4 +18,6 @@ This is micor challenge 1 , the challenge is a simple , given a list of connecte
 
 
 ## Solution :
+![image](https://user-images.githubusercontent.com/48186577/135146777-548811e8-aad7-49f5-a0a5-45628c90c07d.png)
+
 6 , 1 , 7 
