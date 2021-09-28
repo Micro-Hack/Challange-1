@@ -14,7 +14,7 @@ This is micor challenge 1 , the challenge is a simple , given a list of connecte
 8 4     
 
 
-![image](https://user-images.githubusercontent.com/48186577/134582783-203b4916-d122-4e23-ad54-fc81b56c2e8d.png)
+![image](https://user-images.githubusercontent.com/48186577/135146199-e67cfe39-fe89-4606-98b2-0070b52f7d16.png)
 
 
 ## Solution :
