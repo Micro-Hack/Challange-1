@@ -1,6 +1,6 @@
 
 # Micro-hack challenge 1 : 
-the challenge is a simple , given a list of connected nodes , find the node(s) that have no direct or nondirect connection to the number 3 node .
+the challenge is a simple , given a list of connected nodes , find the node(s) that have no direct or nondirect connection to the node with number 3 .
 ## Example :
 
 7 1                                                                                 
